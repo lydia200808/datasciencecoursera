@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-R-programming assignment2
+Data Science Specialization
